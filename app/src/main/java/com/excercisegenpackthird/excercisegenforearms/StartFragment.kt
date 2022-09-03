@@ -1,4 +1,4 @@
-package com.excercisegenpacksecond.excercisegencalves
+package com.excercisegenpackthird.excercisegenforearms
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.google.android.material.snackbar.Snackbar
-import com.excercisegenpacksecond.excercisegencalves.databinding.FragmentStartBinding
+import com.excercisegenpackthird.excercisegenforearms.databinding.FragmentStartBinding
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
