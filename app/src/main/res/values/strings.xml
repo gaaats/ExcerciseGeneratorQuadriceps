@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Forearms Stretch Meadow</string>
+    <string name="app_name">Quadriceps Isometrics Desire</string>
     <string name="loading">Loading...</string>
     <string name="here_will_be_your_pass">here will be your password...\n Just press GENERATE</string>
     <!-- TODO: Remove or change this placeholder text -->
@@ -8,7 +8,7 @@
     <string name="settings_text">settings</string>
     <string name="text_about">Create strong passwords with keywords from your favorite movie to protect your accounts.</string>
     <string name="music">music</string>
-    <string name="text_activity_good">The forearm is the region of the upper limb between the elbow and the wrist. The term forearm is used in anatomy to distinguish it from the arm, a word which is most often used to describe the entire appendage of the upper limb, but which in anatomy, technically, means only the region of the upper arm, whereas the lower "arm" is called the forearm. It is homologous to the region of the leg that lies between the knee and the ankle joints, the crus. The forearm contains two long bones, the radius and the ulna, forming the two radioulnar joints. The interosseous membrane connects these bones. Ultimately, the forearm is covered by skin, the anterior surface usually being less hairy than the posterior surface.</string>
+    <string name="text_activity_good">Your quad muscles, or quadriceps femoris, are a group of muscles at the front of your thigh. Together, they contain more mass than any other muscle group in your body. You use your quads to perform a variety of movements, including kicking, running, jumping and walking. In the past, experts believed there were four quad muscles. In Latin, the root “quad” means “four or fourth.” But recently, they discovered a fifth muscle in this group. Your quads are vulnerable to injuries, such as contusions (bruising) from blows to the front of your thigh. These muscles also handle a lot of strain from your hip and knee joints, so quad strains or “pulled quads” can occur.</string>
     <string name="about"><u>about</u></string>
     <string name="vibration">vibration</string>
 

@@ -1,4 +1,4 @@
-package com.excercisegenpackthird.excercisegenforearms
+package com.excercisegenpackfive.excercisegenquadriceps
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import com.excercisegenpackthird.excercisegenforearms.databinding.ActivitySplashScreenBinding
+import com.excercisegenpackfive.excercisegenquadriceps.databinding.ActivitySplashScreenBinding
 
 @SuppressLint("CustomSplashScreen")
 class SplashScreenActivity : AppCompatActivity() {

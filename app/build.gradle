@@ -7,7 +7,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.excercisegenpackthird.excercisegenforearms"
+        applicationId "com.excercisegenpackfive.excercisegenquadriceps"
         minSdk 26
         targetSdk 32
         versionCode 1

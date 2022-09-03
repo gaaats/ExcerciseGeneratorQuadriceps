@@ -1,4 +1,4 @@
-package com.excercisegenpackthird.excercisegenforearms.recycler
+package com.excercisegenpackfive.excercisegenquadriceps.recycler
 import androidx.recyclerview.widget.DiffUtil
 
 class ExerciseDiffUtill: DiffUtil.ItemCallback<ExerciseItem>() {

@@ -1,11 +1,11 @@
-package com.excercisegenpackthird.excercisegenforearms
+package com.excercisegenpackfive.excercisegenquadriceps
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.excercisegenpackthird.excercisegenforearms.databinding.FragmentSettingsBinding
+import com.excercisegenpackfive.excercisegenquadriceps.databinding.FragmentSettingsBinding
 
 class SettingsFragment : Fragment() {
 
